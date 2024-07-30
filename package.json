@@ -7,7 +7,7 @@
     "@emotion/styled": "^11.11.0",
     "@mui/material": "^5.13.0",
     "@reduxjs/toolkit": "^1.9.7",
-    "@uspacy/sdk": "^0.0.54",
+    "@uspacy/sdk": "^0.0.93",
     "@uspacy/store": "^0.0.66",
     "axios": "^1.4.0",
     "dotenv-webpack": "^8.0.1",
