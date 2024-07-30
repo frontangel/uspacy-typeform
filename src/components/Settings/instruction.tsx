@@ -304,7 +304,7 @@ function IntegrationInstructions() {
 							<Link href="https://my.leadbox.com.ua" sx={linkStyles} target="_blank">
 								my.leadBox.com.ua
 							</Link>{' '}
-							account, or
+							account, or:
 						</Typography>
 						<Typography component="div">
 							✉️{' '}
