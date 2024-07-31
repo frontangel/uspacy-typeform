@@ -7,7 +7,7 @@ function IntegrationInstructions() {
 	const { i18n } = useTranslation('settings');
 	const currentLocale = i18n.language;
 	const helpUrlUk = 'https://leadbox.crunch.help/uk/intieghratsiyi-z-dzhierielami-otrimannia-zaiavok/pidkliuchiennia-type-form';
-	const helpUrlEn = 'https://leadbox.crunch.help/uk/intieghratsiyi-z-dzhierielami-otrimannia-zaiavok/pidkliuchiennia-type-form';
+	const helpUrlEn = 'https://leadbox.crunch.help/en/intieghratsiyi-z-dzhierielami-otrimannia-zaiavok/pidkliuchiennia-type-form';
 	// const videoId = 'BF1E3O2IfUI';
 	// const playerStyles = {
 	// 	maxWidth: '1000px',
