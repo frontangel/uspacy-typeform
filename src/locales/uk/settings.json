@@ -7,5 +7,7 @@
   "loading": "Завантаження",
   "integrationApiKey": "c8690d6c948e41ec6bcbae7d6249efe7",
   "INVALID_API_KEY": "Не вірний api ключ",
-  "LABEL_API_KEY": "Api ключ"
+  "LABEL_API_KEY": "Api ключ",
+  "WARNING": "Увага!",
+  "WIDGET_INSTALL_ERROR": "Виникла помилка при встановлені віджета. Будь ласка видаліть і встановіть його ще раз."
 }
