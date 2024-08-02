@@ -111,6 +111,9 @@ const Settings: React.FC = () => {
 
 	const handleDisconnect = async (e: SyntheticEvent) => {
 		e.preventDefault();
+		if (loading) {
+			return;
+		}
 		setLoading(true);
 		setError('');
 		const appToken = await getAppToken();
